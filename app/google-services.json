@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35124493425",
+    "firebase_url": "https://aprendeacomer-78039.firebaseio.com",
+    "project_id": "aprendeacomer-78039",
+    "storage_bucket": "aprendeacomer-78039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35124493425:android:decc21d9c1e37cb7",
+        "android_client_info": {
+          "package_name": "com.example.lari.aprendeacomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35124493425-qaj4gs7io0t0sbvbe52jdn9t4n19pvjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18yHs-UzsY7ucPdvn-6Tq8YfNWZPkjMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
